@@ -1,0 +1,34 @@
+.header {
+    width: 100%;
+    height: 60px;
+    background-color: bisque;
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+}
+.container_nav {
+    display: flex;
+    justify-content: space-between;
+}
+.navbar {
+    width: 100%;
+    height: 50px;
+    background-color: silver;
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+}
+.link {
+    padding-left:20px;
+    padding-right: 10px;
+    color: black;
+}
+a {
+    text-decoration:  none;
+}
+button {
+    width: 150px;
+    height: 50px;
+    background-color: steelblue;
+
+}
